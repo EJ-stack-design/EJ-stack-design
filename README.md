@@ -23,7 +23,6 @@ I enjoy building practical projects that combine hardware and software to solve 
 ### Currently Learning
 
 - Full-Stack Web Development
-- Flutter Application Development
 - Artificial Intelligence and Machine Learning
 - Embedded Systems and IoT
 
