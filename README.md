@@ -1,4 +1,4 @@
-# Hi, I'm EJ! 👋
+# Hi, I'm EJ!
 
 ### Computer Engineering Student | Aspiring Software Developer | IoT Enthusiast
 
@@ -6,7 +6,7 @@ I'm a Computer Engineering student interested in software development, Internet 
 
 I enjoy building practical projects that combine hardware and software to solve real-world problems.
 
-### 💻 Technologies & Tools
+### Technologies & Tools
 
 - **Programming:** C, C++, C#, Python, JavaScript, PHP
 - **Web Development:** HTML, CSS, JavaScriptr
@@ -14,20 +14,20 @@ I enjoy building practical projects that combine hardware and software to solve 
 - **Hardware & IoT:** ESP32, Arduino, Sensors
 - **Tools:** Git, GitHub, VS Code
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **Smart Transit System** – A vehicle tracking system with GPS monitoring, passenger applications, operator dashboard, and estimated time of arrival (ETA).
 - **Smart Water Dispenser** – An ESP32-based IoT project featuring automated water dispensing and a web-based monitoring dashboard.
 - **Inventory Management System** – A database-driven application for managing products and inventory records.
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Full-Stack Web Development
 - Flutter Application Development
 - Artificial Intelligence and Machine Learning
 - Embedded Systems and IoT
 
-### 📫 Connect With Me
+### Connect With Me
 
-- GitHub: [Your GitHub Profile]
+- GitHub: https://github.com/EJ-stack-design
 - Email: dejgodpray@gmail.com
