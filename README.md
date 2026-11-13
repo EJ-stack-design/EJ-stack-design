@@ -31,3 +31,9 @@ I enjoy building practical projects that combine hardware and software to solve 
 
 - GitHub: https://github.com/EJ-stack-design
 - Email: dejgodpray@gmail.com
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
